@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatHub", "ChatHub\ChatHub.csproj", "{0175F549-774F-45E7-9789-06F9350B054E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiChatHub", "ApiChatHub\ApiChatHub.csproj", "{2A508569-7FA9-4295-9C78-71AF5BC7F258}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0175F549-774F-45E7-9789-06F9350B054E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0175F549-774F-45E7-9789-06F9350B054E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0175F549-774F-45E7-9789-06F9350B054E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A508569-7FA9-4295-9C78-71AF5BC7F258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A508569-7FA9-4295-9C78-71AF5BC7F258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A508569-7FA9-4295-9C78-71AF5BC7F258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A508569-7FA9-4295-9C78-71AF5BC7F258}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
