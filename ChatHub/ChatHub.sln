@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatHub", "ChatHub\ChatHub.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiChatHubV2", "ApiChatHubV2\ApiChatHubV2.csproj", "{4749FFAA-ADF4-40DC-B4E7-04E0E137C6FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatHubDotnetCoreAngular", "ChatHubDotnetCoreAngular\ChatHubDotnetCoreAngular.csproj", "{C18FB777-299F-4D9F-8A3C-6245112CC27D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4749FFAA-ADF4-40DC-B4E7-04E0E137C6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4749FFAA-ADF4-40DC-B4E7-04E0E137C6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4749FFAA-ADF4-40DC-B4E7-04E0E137C6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C18FB777-299F-4D9F-8A3C-6245112CC27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18FB777-299F-4D9F-8A3C-6245112CC27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18FB777-299F-4D9F-8A3C-6245112CC27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18FB777-299F-4D9F-8A3C-6245112CC27D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
