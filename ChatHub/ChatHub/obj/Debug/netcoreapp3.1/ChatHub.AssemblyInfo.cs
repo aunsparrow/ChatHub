@@ -11,6 +11,8 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-ChatHub-406ED642-9943-4BEB-8624-178D63A0CD32")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChatHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
