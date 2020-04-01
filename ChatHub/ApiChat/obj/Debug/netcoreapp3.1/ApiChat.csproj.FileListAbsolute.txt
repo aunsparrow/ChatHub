@@ -1,0 +1,10 @@
+C:\Users\aunsparrowPC\source\repos\aunsparrow\ChatHub\ChatHub\ApiChat\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aunsparrowPC\source\repos\aunsparrow\ChatHub\ChatHub\ApiChat\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aunsparrowPC\source\repos\aunsparrow\ChatHub\ChatHub\ApiChat\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\aunsparrowPC\source\repos\aunsparrow\ChatHub\ChatHub\ApiChat\bin\Debug\netcoreapp3.1\ApiChat.exe
+C:\Users\aunsparrowPC\source\repos\aunsparrow\ChatHub\ChatHub\ApiChat\obj\Debug\netcoreapp3.1\ApiChat.csprojAssemblyReference.cache
+C:\Users\aunsparrowPC\source\repos\aunsparrow\ChatHub\ChatHub\ApiChat\obj\Debug\netcoreapp3.1\ApiChat.AssemblyInfoInputs.cache
+C:\Users\aunsparrowPC\source\repos\aunsparrow\ChatHub\ChatHub\ApiChat\obj\Debug\netcoreapp3.1\ApiChat.AssemblyInfo.cs
+C:\Users\aunsparrowPC\source\repos\aunsparrow\ChatHub\ChatHub\ApiChat\obj\Debug\netcoreapp3.1\ApiChat.RazorTargetAssemblyInfo.cache
+C:\Users\aunsparrowPC\source\repos\aunsparrow\ChatHub\ChatHub\ApiChat\obj\Debug\netcoreapp3.1\staticwebassets\ApiChat.StaticWebAssets.Manifest.cache
+C:\Users\aunsparrowPC\source\repos\aunsparrow\ChatHub\ChatHub\ApiChat\obj\Debug\netcoreapp3.1\staticwebassets\ApiChat.StaticWebAssets.xml

@@ -18,7 +18,7 @@ namespace ChatHub.Data
         {
             base.OnModelCreating(builder);
             builder.Entity<Massage>()
-                .HasOne<AppUser>(a => a.AppUser)
+                .HasOne<AppUser>(a => a.Sender)
                 .WithMany(d => d.Massages)
                 .HasForeignKey(d => d.UserId);
 
